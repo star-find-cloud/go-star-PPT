@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"localhost/business_code_test/config"
-	"localhost/business_code_test/database/mysql"
+	"localhost/business_code_test/pkg/database/mysql"
 )
 
 func main() {

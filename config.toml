@@ -10,9 +10,9 @@ version = "v0.1"
     [database.mysql]
     user = "Golang"
     password = "123456"
-    master_host = "192.168.10.71"
-    slave_host_1 = "192.168.10.72"
-    slave_host_2 = "192.168.10.73"
+    master_host = "localhost"
+#    slave_host_1 = "192.168.10.72"
+#    slave_host_2 = "192.168.10.73"
     port = 3306
     db_name = "test"
     max_open_conns = 100
@@ -21,8 +21,8 @@ version = "v0.1"
 
     [database.redis]
     master_host = "192.168.10.74"
-    slave_host_1 = "192.168.10.75"
-    slave_host_1 = "192.168.10.76"
+#    slave_host_1 = "192.168.10.75"
+#    slave_host_1 = "192.168.10.76"
     port = 6379
     password = "redispass"
 

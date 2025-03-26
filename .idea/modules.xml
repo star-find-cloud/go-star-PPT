@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/go-Star-PPT.iml" filepath="$PROJECT_DIR$/.idea/go-Star-PPT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../go-chat/.idea/go-chat.iml" filepath="$PROJECT_DIR$/../go-chat/.idea/go-chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gogo/.idea/gogo.iml" filepath="$PROJECT_DIR$/../gogo/.idea/gogo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../var/.idea/var.iml" filepath="$PROJECT_DIR$/../var/.idea/var.iml" />
+    </modules>
+  </component>
+</project>
